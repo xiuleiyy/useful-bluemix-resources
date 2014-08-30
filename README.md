@@ -9,6 +9,8 @@ You can get many useful Bluemix articles from my personal blog.
 
 URL: https://www.ibm.com/developerworks/community/blogs/acostry/?lang=en
 
+Sign up for a #Bluemix trial. https://ace.ng.bluemix.net/?cm_mmc=developerWorks-_-dW%20CloudOE%20content-_-cl-oauthregistry-app-_-article
+
 1. Top 9 rules for cloud applications -The dos and don'ts of making your application cloud-ready http://www.ibm.com/developerworks/websphere/techjournal/1404_brown/1404_brown.html #Bluemix
 2. Build highly scalable applications with Node.js and Redis http://www.ibm.com/developerworks/cloud/library/cl-bluemix-node-redis-app/index.html #Bluemix
 3. Unlock your on-premises translated content in the cloud Use the Cloud Integration add-on in IBM Bluemix for seamless, secure access to systems of record http://www.ibm.com/developerworks/cloud/library/cl-bluemix-globalizing-translating/index.html
