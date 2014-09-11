@@ -11,6 +11,8 @@ URL: https://www.ibm.com/developerworks/community/blogs/acostry/?lang=en
 
 Sign up for a #Bluemix trial. https://ace.ng.bluemix.net/?cm_mmc=developerWorks-_-dW%20CloudOE%20content-_-cl-oauthregistry-app-_-article
 
+Protect your resources with the #Bluemix App User Registry Add-on http://www.ibm.com/developerworks/cloud/library/cl-oauthregistry-app/index.html #Devops #Oauth
+
 1. Top 9 rules for cloud applications -The dos and don'ts of making your application cloud-ready http://www.ibm.com/developerworks/websphere/techjournal/1404_brown/1404_brown.html #Bluemix
 2. Build highly scalable applications with Node.js and Redis http://www.ibm.com/developerworks/cloud/library/cl-bluemix-node-redis-app/index.html #Bluemix
 3. Unlock your on-premises translated content in the cloud Use the Cloud Integration add-on in IBM Bluemix for seamless, secure access to systems of record http://www.ibm.com/developerworks/cloud/library/cl-bluemix-globalizing-translating/index.html
@@ -182,6 +184,12 @@ http://www.ibm.com/developerworks/library/mo-android-twilio-app/index.htm
 163. Create a business intelligence and analytics service in #Ruby with Analytics Warehouse on #Bluemix http://www.ibm.com/developerworks/library/bd-ruby-bluacceleration-app/index.html
 164. IBM #DevOps Services and #Bluemix integration http://www.youtube.com/watch?v=b2mM_Wwp_4c
 165. #Bluemix team engages with developers http://www.youtube.com/watch?v=mqmDuQT3nCQ 
+166. The Wonderful Resources for Cloudant https://www.ibm.com/developerworks/community/blogs/acostry/entry/0910?lang=en
+167. The Wonderful Resources for Softlayer https://www.ibm.com/developerworks/community/blogs/acostry/entry/0906?lang=en
+168. Put IBM Bluemix to the test: Build and deploy apps quickly with developerWorks https://developer.ibm.com/bluemix/docs/articles/
+169. The Wonderful Resources for Bluemix — Articles/Sample/Code and so on , good read. https://www.ibm.com/developerworks/community/blogs/acostry/entry/0904?lang=en 
+170. Deploy your first application to cloud. #Bluemix https://ace.ng.bluemix.net/?cm_mmc=developerWorks-_-dW%20CloudOE%20content-_-cl-oauthregistry-app-_-article
+171. 
 
 Bluemix Chinese Resources
 ====================================
