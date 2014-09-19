@@ -189,7 +189,7 @@ http://www.ibm.com/developerworks/library/mo-android-twilio-app/index.htm
 168. Put IBM Bluemix to the test: Build and deploy apps quickly with developerWorks https://developer.ibm.com/bluemix/docs/articles/
 169. The Wonderful Resources for Bluemix — Articles/Sample/Code and so on , good read. https://www.ibm.com/developerworks/community/blogs/acostry/entry/0904?lang=en 
 170. Deploy your first application to cloud. #Bluemix https://ace.ng.bluemix.net/?cm_mmc=developerWorks-_-dW%20CloudOE%20content-_-cl-oauthregistry-app-_-article
-171. 
+171. GitHub: This is used to show the usage of Runtime Management Utility function in IBM Bluemix https://github.com/acostry/bluemix-rmu-usage 
 
 Bluemix Chinese Resources
 ====================================
