@@ -191,6 +191,7 @@ http://www.ibm.com/developerworks/library/mo-android-twilio-app/index.htm
 170. Deploy your first application to cloud. #Bluemix https://ace.ng.bluemix.net/?cm_mmc=developerWorks-_-dW%20CloudOE%20content-_-cl-oauthregistry-app-_-article
 171. GitHub: This is used to show the usage of Runtime Management Utility function in IBM Bluemix https://github.com/acostry/bluemix-rmu-usage 
 172. Sign up for a #Bluemix trial. https://ace.ng.bluemix.net/?cm_mmc=developerWorks-_-dW%20CloudOE%20content-_-cl-oauthregistry-app-_-article
+173. IBM Bluemix, apps in the cloud in the heart of Silicon Valley Mobile and Bluemix, creating a series of lessons on..  http://www.dwz.cn/rBbmE
 
 Bluemix Chinese Resources
 ====================================
