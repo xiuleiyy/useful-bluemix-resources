@@ -192,6 +192,7 @@ http://www.ibm.com/developerworks/library/mo-android-twilio-app/index.htm
 171. GitHub: This is used to show the usage of Runtime Management Utility function in IBM Bluemix https://github.com/acostry/bluemix-rmu-usage 
 172. Sign up for a #Bluemix trial. https://ace.ng.bluemix.net/?cm_mmc=developerWorks-_-dW%20CloudOE%20content-_-cl-oauthregistry-app-_-article
 173. IBM Bluemix, apps in the cloud in the heart of Silicon Valley Mobile and Bluemix, creating a series of lessons on..  http://www.dwz.cn/rBbmE
+174. Bluemix Launches IBM Containers Beta Based on Docker https://developer.ibm.com/bluemix/2014/12/04/ibm-containers-beta-docker/
 
 Bluemix Chinese Resources
 ====================================
